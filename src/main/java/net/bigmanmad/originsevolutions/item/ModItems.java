@@ -14,7 +14,7 @@ public class ModItems {
     public static final Item ORB_FRAGMENT_2 = registerItem("orb_fragment_2", new Item(new FabricItemSettings()));
     public static final Item ORB_FRAGMENT_3 = registerItem("orb_fragment_3", new Item(new FabricItemSettings()));
     public static final Item ORB_FRAGMENT_4 = registerItem("orb_fragment_4", new Item(new FabricItemSettings()));
-    public static final Item STIMULATED_MILK = registerItem("stimulated_milk", new Item(new FabricItemSettings()));
+    public static final Item STIMULATED_MILK = registerItem("stimulated_milk", new Item(new FabricItemSettings().maxCount(1)));
     public static final Item BEJEWELED_STEAK = registerItem("bejeweled_steak", new Item(new FabricItemSettings().food(ModFoodComponents.BEJEWELED_STEAK)));
     public static final Item LUSCIOUS_TREAT = registerItem("luscious_treat", new Item(new FabricItemSettings().food(ModFoodComponents.LUSCIOUS_STEAK)));
 
