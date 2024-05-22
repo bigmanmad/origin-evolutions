@@ -1,0 +1,23 @@
+{
+  "parent": "evolution:evolution/root",
+    "display": {
+      "icon": {
+        "item": "minecraft:ender_pearl"
+      },
+      "title": "Aquaphobia is rude, you know!",
+      "description": "You chose the Enderian origin!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "origins:chose_origin",
+        "conditions": {
+          "origin": "origins:enderian"
+          }
+        }
+      }
+    }
+  

@@ -1,0 +1,23 @@
+{
+  "parent": "evolution:evolution/root",
+    "display": {
+      "icon": {
+        "item": "minecraft:player_head"
+      },
+      "title": "Well this sucks.",
+      "description": "You chose the Human origin.. how boring.",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "origins:chose_origin",
+        "conditions": {
+          "origin": "origins:human"
+          }
+        }
+      }
+    }
+  

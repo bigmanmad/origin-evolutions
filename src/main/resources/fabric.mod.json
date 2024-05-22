@@ -1,18 +1,19 @@
 {
 	"schemaVersion": 1,
-	"id": "origins-evolutions",
+	"id": "originsevolutions",
 	"version": "${version}",
-	"name": "origins-evolutions",
+	"name": "Origins Evolutions",
 	"description": "This mod adds new origin evolutions",
 	"authors": [
 		"bigmanmad"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/bigmanmad/origin-evolutions",
+		"sources": "https://github.com/bigmanmad/origin-evolutions",
+		"issues": "https://github.com/bigmanmad/origin-evolutions/issues"
 	},
 	"license": "MIT",
-	"icon": "assets/origins-evolutions/icon.png",
+	"icon": "assets/originsevolutions/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -33,7 +34,7 @@
 		"minecraft": "~1.20.1",
 		"java": ">=17",
 		"fabric-api": "*",
-		"origins": "1.10.0"
+		"origins": ">=1.10.0"
 	},
 	"suggests": {
 	}

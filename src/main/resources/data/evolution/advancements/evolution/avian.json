@@ -1,0 +1,23 @@
+{
+  "parent": "evolution:evolution/root",
+    "display": {
+      "icon": {
+        "item": "minecraft:feather"
+      },
+      "title": "Pfft, you're a chicken",
+      "description": "You chose the Avian origin!",
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "origins:chose_origin",
+        "conditions": {
+          "origin": "origins:avian"
+          }
+        }
+      }
+    }
+  

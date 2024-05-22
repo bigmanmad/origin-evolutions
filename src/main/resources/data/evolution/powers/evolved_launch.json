@@ -1,0 +1,16 @@
+{
+    "type": "origins:launch",
+    "cooldown": 500,
+    "hud_render": {
+      "sprite_location": "origins:textures/gui/resource_bar.png",
+      "bar_index": 4
+    },
+    "sound": "minecraft:entity.parrot.fly",
+    "speed": 3,
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": true
+    },
+    "name": "God of the Winds",
+    "description": "Your gift has evolved with you, allowing you to boost much higher in the air (around 30 blocks) and reducing cooldown to 25 seconds."
+  }

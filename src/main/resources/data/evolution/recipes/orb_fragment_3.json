@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        "EPE",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:shulker_shell"
+        },
+        "D": {
+            "item": "minecraft:dragon_head"
+        },
+        "E": {
+            "item": "minecraft:dragon_breath"
+        },
+        "P": {
+            "item": "minecraft:elytra"
+        },
+        "O": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:orb_fragment_3",
+        "count": 1
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#NM",
+        "GEI",
+        "ADK"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:music_disc_5"
+        },
+        "N": {
+            "item": "minecraft:netherite_block"
+        },
+        "M": {
+            "item": "minecraft:music_disc_otherside"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "E": {
+            "item": "minecraft:enchanted_golden_apple"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "A": {
+            "item": "minecraft:music_disc_relic"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        },
+        "K": {
+            "item": "minecraft:music_disc_pigstep"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:orb_fragment_2",
+        "count": 1
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#T#",
+        "PCM",
+        "#S#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sponge"
+        },
+        "T": {
+            "item": "minecraft:trident"
+        },
+        "P": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "C": {
+            "item": "minecraft:conduit"
+        },
+        "M": {
+            "item": "minecraft:prismarine_crystals"
+        },
+        "S": {
+            "item": "minecraft:sea_lantern"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:orb_fragment_4",
+        "count": 1
+    }
+}

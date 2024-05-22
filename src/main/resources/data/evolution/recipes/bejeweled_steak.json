@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ggg",
+        "GCG",
+        "ggg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "G": {
+            "item": "minecraft:gold_block"
+        },
+        "C": {
+            "item": "minecraft:cooked_beef"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:bejeweled_steak",
+        "count": 1
+    }
+}

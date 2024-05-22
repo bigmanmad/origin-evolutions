@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "NCB",
+        " M "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:elytra"
+        },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
+        "C": {
+            "item": "originsevolutions:bejeweled_steak"
+        },
+        "B": {
+            "item": "minecraft:bone"
+        },
+        "M": {
+            "item": "originsevolutions:stimulated_milk"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:luscious_treat",
+        "count": 1
+    }
+}

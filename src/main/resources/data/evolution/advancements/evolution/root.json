@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crafting_table"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/nether.png",
+    "description": "I hope you enjoy the mod!",
+    "icon": {
+      "item": "origins:orb_of_origin"
+    },
+    "show_toast": false,
+    "title": "Origins Evolutions"
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ]
+}

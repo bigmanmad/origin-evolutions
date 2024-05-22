@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      " # ",
+      "nNO",
+      " J "
+  ],
+  "key": {
+      "#": {
+          "item": "originsevolutions:orb_fragment_1"
+      },
+      "n": {
+          "item": "originsevolutions:orb_fragment_4"
+      },
+      "N": {
+          "item": "minecraft:nether_star"
+      },
+      "O": {
+          "item": "originsevolutions:orb_fragment_2"
+      },
+      "J": {
+          "item": "originsevolutions:orb_fragment_3"
+      }
+  },
+  "result": {
+      "item": "origins:orb_of_origin",
+      "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "origins:restrict_armor",
+    "head": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 3
+    },
+    "chest": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 8
+    },
+    "legs": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 6
+    },
+    "feet": {
+      "type": "origins:armor_value",
+      "comparison": ">",
+      "compare_to": 3
+    },
+    "name": "Stronger Wings",
+    "description": "Your time spent flying around has caused your wings to grow stronger, allowing you to wear armour with the same protection values than or below netherite."
+  }

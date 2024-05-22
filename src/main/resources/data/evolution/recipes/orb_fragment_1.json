@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "S/S",
+        "NSN"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "S": {
+            "item": "minecraft:soul_sand"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "N": {
+            "item": "minecraft:nether_wart"
+        }
+    },
+    "result": {
+        "item": "originsevolutions:orb_fragment_1",
+        "count": 1
+    }
+}

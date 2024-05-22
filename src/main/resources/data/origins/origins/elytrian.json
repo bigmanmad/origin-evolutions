@@ -1,0 +1,22 @@
+{
+  "loading_priority": 6,
+  "powers": [
+    "origins:elytra",
+    "origins:launch_into_air",
+    "origins:aerial_combatant",
+    "origins:light_armor",
+    "origins:claustrophobia"
+  ],
+  "upgrades": [
+    {
+      "condition": "evolution:evolution/silent_elytrian_evo",
+      "origin": "evolution:elytrian-evolved"
+    }
+  ],
+  "icon": {
+    "item": "minecraft:elytra"
+  },
+  "order": 3,
+  "impact": 1
+
+}

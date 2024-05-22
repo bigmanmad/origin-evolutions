@@ -1,0 +1,23 @@
+{
+  "parent": "evolution:evolution/silent_elytrian_evo",
+    "display": {
+      "icon": {
+        "item": "minecraft:nether_star"
+      },
+      "title": "Origin Evolution: Elytrian",
+      "description": "Ate the Luscious Treat and evolved your origin!",
+      "frame": "goal",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "origins:chose_origin",
+        "conditions": {
+          "origin": "evolution:elytrian-evolved"
+        }
+      }
+    }
+  }
+  

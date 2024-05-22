@@ -1,0 +1,18 @@
+{
+    "unchoosable": true,
+	"powers": [
+		"origins:elytra",
+		"evolution:evolved_launch",
+		"origins:aerial_combatant",
+		"evolution:evolved_armour",
+		"evolution:evolved_bones"
+	],
+	"icon": {
+		"item": "minecraft:nether_star"
+	},
+        "name":"Elytrian: Evolved",
+        "description":"Over time spent gliding across the land, you have become much stronger and have adapted and evolved, meaning you are much stronger than you used to be.",
+
+	"order": 3,
+	"impact": 1
+}
